@@ -14,7 +14,7 @@
   
   * Rural area had high numbers in the studies of Average Fare per Ride and Average Fare per Driver compared to Urban and Suburban areas.
   
-  <img src="Images/Avg_Fare_Per_Ride_&_Driver.PNG" width=300>
+  <img src="Images/Avg_Fare_Per_Ride_&_Driver.PNG" width=500>
   
   * Throughout the study of the Total Fare between January and April in 2019, Urban and Suburban areas appeared to reach their highest numbers of total fare in late Feburary; Rural area reached its highest number at the end of March/the beginning of April. 
   
