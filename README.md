@@ -18,7 +18,7 @@
   
   * Throughout the study of the Total Fare between January and April in 2019, Urban and Suburban areas appeared to reach their highest numbers of total fare in late Feburary; Rural area reached its highest number at the end of March/the beginning of April. 
   
-  <img src="Images/PyBer_fare_summary.PNG" width=300>
+  <img src="Images/PyBer_fare_summary.png" width=500>
 
 ## **Summary**
 
